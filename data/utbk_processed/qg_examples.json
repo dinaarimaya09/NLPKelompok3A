@@ -1,0 +1,182 @@
+[
+  {
+    "question_id": "LBI-004",
+    "category": "Menemukan Informasi",
+    "question_type": "pilihan_ganda",
+    "difficulty": "Mudah",
+    "question": "Perhatikan Teks Berikut!\n\nTeks 1 (pelaku wisata desa):\nPembatasan jumlah wisatawan hanya akan mematikan denyut ekonomi desa kami. Sekitar 4 dari 10 keluarga di desa ini menggantungkan penghasilan dari penginapan, warung, dan jasa pemandu. Ketika pandemi membuat pengunjung nyaris nol, banyak dari kami terpaksa menjual perahu dan peralatan. Kami tidak butuh kuota; kami butuh pengelolaan sampah dan jalur yang lebih baik agar kedatangan wisatawan yang ramai tidak merusak apa-apa.\n\nTeks 2 (peneliti lingkungan pesisir):\nSetiap destinasi memiliki daya dukung, yaitu jumlah pengunjung maksimum yang dapat ditampung tanpa merusak lingkungan dan menurunkan kualitas pengalaman. Di pantai kami, terumbu karang menunjukkan penurunan tutupan hidup dalam dua tahun terakhir seiring melonjaknya jumlah perahu dan penyelam. Kuota harian bukan untuk mematikan wisata, melainkan menjaga aset yang membuat wisatawan datang. Tanpa itu, wisata massal justru menggerogoti modal yang dijualnya sendiri.\n\nBerdasarkan Teks 1, sekitar berapa bagian keluarga di desa itu yang menggantungkan penghasilan dari sektor wisata?",
+    "options": {
+      "A": "2 dari 10",
+      "B": "3 dari 10",
+      "C": "4 dari 10",
+      "D": "5 dari 10",
+      "E": "6 dari 10"
+    },
+    "answer": "C",
+    "explanation": "Jawaban: C\n\nTeks 1 menyebut sekitar 4 dari 10 keluarga.\n\nAnalisis setiap opsi:\nA. (SALAH) Tidak sesuai teks.\nB. (SALAH) Tidak sesuai teks.\nC. (BENAR) Sesuai teks.\nD. (SALAH) Tidak sesuai teks.\nE. (SALAH) Tidak sesuai teks.",
+    "hint": "Baca kalimat kedua Teks 1.",
+    "source_file": "BaseSoalLBI.xlsx",
+    "source_sheet": "Soal",
+    "source_row": 5
+  },
+  {
+    "question_id": "LBI-251",
+    "category": "Menemukan Informasi",
+    "question_type": "pilihan_ganda",
+    "difficulty": "Mudah",
+    "question": "Perhatikan teks berikut!\n\nSusu merupakan minuman bergizi tinggi yang dibutuhkan oleh balita untuk dapat tumbuh dan berkembang secara optimal. Namun, susu sering kali digolongkan sebagai minuman yang berharga cukup mahal, terutama sediaan susu yang telah mengalami berbagai proses pengolahan. Di pasaran, susu tersedia dalam bentuk minuman kemasan yang biasanya telah ditambahkan sukrosa serta zat perisai tertentu untuk memberikan variasi rasa. Kandungan gizi dalam susu sangat dipengaruhi oleh jenis ternak yang menghasilkannya, jenis makanan yang dikonsumsi ternak, dan tingkat kesehatan ternak. Setiap 100 ml susu sapi murni rata-rata dapat menghasilkan energi sekitar 259 kj. Umumnya, kandungan susu sapi murni menurut berat adalah 87% air, 3,7% lemak, 3,5% protein, 4,9% laktosa, 0,07% mineral, dan sisanya berupa berbagai jenis vitamin, enzim, dan lain-lain. Mineral yang terdapat dalam susu sapi murni di antaranya adalah kalsium, fosfor, natrium, besi, tembaga, dan seng. Kalsium dan fosfor merupakan mineral penting untuk pertumbuhan tulang dan gigi. Susu juga mengandung vitamin yang larut dalam lemak, yaitu vitamin A, D, E, dan K, serta vitamin yang larut dalam air, yaitu vitamin B dan C. Selain itu, di dalam susu juga terdapat beberapa jenis enzim, seperti peroksidase, katalase, fosfatase, dan lipase. Lipase berfungsi untuk menghidrolisis lipid. Di antara enzim-enzim tersebut, peroksidase dan fosfatase umumnya digunakan sebagai indikator kecukupan pasteurisasi susu karena kedua enzim ini akan rusak pada suhu pasteurisasi, sementara vitamin, mineral, dan enzim lain tidak mengalami perubahan.\n\nSimbol salah satu mineral yang terkandung dalam susu sesuai dengan bacaan di atas adalah …",
+    "options": {
+      "A": "F",
+      "B": "N",
+      "C": "Be",
+      "D": "Cu",
+      "E": "Se"
+    },
+    "answer": "D",
+    "explanation": "Soal tersebut menanyakan simbol unsur dari salah satu mineral yang terkandung dalam susu menurut bacaan.\n\nBacaan menyebutkan: “Mineral yang terdapat dalam susu sapi murni di antaranya adalah kalsium, fosfor, natrium, besi, tembaga, dan seng.”\n\nDari pilihan jawaban, simbol unsur yang sesuai adalah:\n- F = fluorin (tidak disebut)\n- N = nitrogen (tidak disebut sebagai mineral; natrium adalah Na)\n- Be = berilium (tidak disebut)\n- Cu = tembaga (disebut dalam bacaan)\n- Se = selenium (tidak disebut)\n\nDengan demikian, simbol mineral yang sesuai dengan bacaan adalah Cu (tembaga). Jawaban D tepat.",
+    "hint": "Cari kalimat atau data pada bacaan yang secara langsung menjawab pertanyaan.",
+    "source_file": "BaseSoalLBI2.xlsx",
+    "source_sheet": "Soal",
+    "source_row": 2
+  },
+  {
+    "question_id": "LBI-252",
+    "category": "Menemukan Informasi",
+    "question_type": "pilihan_ganda",
+    "difficulty": "Mudah",
+    "question": "Perhatikan teks berikut!\n\nSusu merupakan minuman bergizi tinggi yang dibutuhkan oleh balita untuk dapat tumbuh dan berkembang secara optimal. Namun, susu sering kali digolongkan sebagai minuman yang berharga cukup mahal, terutama sediaan susu yang telah mengalami berbagai proses pengolahan. Di pasaran, susu tersedia dalam bentuk minuman kemasan yang biasanya telah ditambahkan sukrosa serta zat perisai tertentu untuk memberikan variasi rasa. Kandungan gizi dalam susu sangat dipengaruhi oleh jenis ternak yang menghasilkannya, jenis makanan yang dikonsumsi ternak, dan tingkat kesehatan ternak. Setiap 100 ml susu sapi murni rata-rata dapat menghasilkan energi sekitar 259 kj. Umumnya, kandungan susu sapi murni menurut berat adalah 87% air, 3,7% lemak, 3,5% protein, 4,9% laktosa, 0,07% mineral, dan sisanya berupa berbagai jenis vitamin, enzim, dan lain-lain. Mineral yang terdapat dalam susu sapi murni di antaranya adalah kalsium, fosfor, natrium, besi, tembaga, dan seng. Kalsium dan fosfor merupakan mineral penting untuk pertumbuhan tulang dan gigi. Susu juga mengandung vitamin yang larut dalam lemak, yaitu vitamin A, D, E, dan K, serta vitamin yang larut dalam air, yaitu vitamin B dan C. Selain itu, di dalam susu juga terdapat beberapa jenis enzim, seperti peroksidase, katalase, fosfatase, dan lipase. Lipase berfungsi untuk menghidrolisis lipid. Di antara enzim-enzim tersebut, peroksidase dan fosfatase umumnya digunakan sebagai indikator kecukupan pasteurisasi susu karena kedua enzim ini akan rusak pada suhu pasteurisasi, sementara vitamin, mineral, dan enzim lain tidak mengalami perubahan.\n\nMenurut bacaan, senyawa karbohidrat yang terdapat dalam susu sapi murni adalah …",
+    "options": {
+      "A": "amilum",
+      "B": "selulosa",
+      "C": "sukrosa",
+      "D": "laktosa",
+      "E": "vitamin"
+    },
+    "answer": "D",
+    "explanation": "Soal tersebut menanyakan senyawa karbohidrat yang terdapat dalam susu sapi murni menurut bacaan.\n\nBacaan menyebutkan komposisi susu sapi murni menurut berat: 87% air, 3,7% lemak, 3,5% protein, 4,9% laktosa, 0,07% mineral, dan sisanya vitamin, enzim, dan lain-lain. Satu-satunya karbohidrat pada daftar tersebut adalah laktosa (gula susu).\n\nOpsi lain tidak tepat:\n- sukrosa hanya disebut sebagai bahan yang ditambahkan pada susu kemasan, bukan komponen susu murni\n- amilum dan selulosa tidak disebut pada bacaan\n- vitamin bukan karbohidrat\n\nDengan demikian, karbohidrat dalam susu sapi murni adalah laktosa. Jawaban D tepat.",
+    "hint": "Cari kalimat atau data pada bacaan yang secara langsung menjawab pertanyaan.",
+    "source_file": "BaseSoalLBI2.xlsx",
+    "source_sheet": "Soal",
+    "source_row": 3
+  },
+  {
+    "question_id": "LBI-001",
+    "category": "Memahami Informasi",
+    "question_type": "pilihan_ganda",
+    "difficulty": "Sedang",
+    "question": "Perhatikan Teks Berikut!\n\nHujan turun sejak subuh dan, seperti biasa, atap seng Sekolah Dasar Negeri Hulu 3 berubah menjadi genderang. Bu Rini mengangkat papan tulis kecilnya ke sudut yang kering, lalu memanggil murid-muridnya mendekat. Hanya sebelas anak yang datang; yang lain tertahan sungai yang meluap. “Hari ini kita belajar tanpa suara,” katanya sambil tersenyum. “Siapa yang bisa membaca tulisan saya dari jauh?”\n\nGaji honorernya belum cair enam bulan. Suaminya, seorang penyadap karet, kerap bertanya mengapa ia bertahan. Bu Rini selalu menjawab dengan candaan sebab jawaban yang sebenarnya terlalu rumit untuk dijelaskan: bahwa setiap kali Danu, murid yang dulu tersendat mengeja huruf A, kini membaca pengumuman di dermaga keras-keras, ia merasa menerima gaji dalam mata uang lain.\n\nMenjelang siang hujan reda. Anak-anak berhamburan mengamati pelangi yang menggantung di atas sungai. Bu Rini tidak menyuruh mereka kembali. Ia menghapus papan tulisnya dan menulis kalimat pendek di sana: Hari ini kita belajar dari langit. Lalu ia ikut berdiri di antara mereka, basah, letih, dan, untuk sesaat, tidak menghitung apa pun.\n\nTema yang paling tepat dari cuplikan cerita tersebut adalah ....",
+    "options": {
+      "A": "kegagalan murid belajar membaca",
+      "B": "pengabdian guru di daerah terpencil yang menemukan makna di luar imbalan materi",
+      "C": "kesulitan ekonomi keluarga penyadap karet",
+      "D": "bahaya banjir sungai bagi sekolah",
+      "E": "perselisihan guru dan suaminya"
+    },
+    "answer": "B",
+    "explanation": "Jawaban: B\n\nMeski gaji tertunda, Bu Rini bertahan karena kepuasan melihat perkembangan muridnya.\n\nAnalisis setiap opsi:\nA. (SALAH) Danu justru berhasil membaca.\nB. (BENAR) Sesuai keseluruhan cerita.\nC. (SALAH) Ekonomi hanya latar, bukan inti.\nD. (SALAH) Banjir hanya latar peristiwa.\nE. (SALAH) Suaminya hanya bertanya, bukan berselisih.",
+    "hint": "Cari benang merah dari ketiga paragraf.",
+    "source_file": "BaseSoalLBI.xlsx",
+    "source_sheet": "Soal",
+    "source_row": 2
+  },
+  {
+    "question_id": "LBI-263",
+    "category": "Memahami Informasi",
+    "question_type": "pilihan_ganda",
+    "difficulty": "Sedang",
+    "question": "Perhatikan teks berikut!\n\nPelaksanaan referendum Timor-Timur pada masa pemerintahan Presiden B.J. Habibie merupakan langkah berani dan bijaksana dalam menyelesaikan permasalahan yang kompleks dan berlarut-larut. Sejak integrasi Timor-Timur ke Indonesia pada tahun 1975, banyak pengorbanan telah diberikan, termasuk subsidi yang besar dari pemerintah pusat untuk pembangunan dan kesejahteraan daerah tersebut. Namun, integrasi ini tidak pernah mendapatkan pengakuan internasional dan terus menjadi sorotan di berbagai forum dunia. Indonesia harus menghadapi kenyataan bahwa posisi negara sering kali dipojokkan oleh resolusi-resolusi PBB yang mendesak penyelesaian masalah Timor-Timur. Opsi otonomi luas yang ditawarkan oleh Indonesia dalam perundingan tripartit sebenarnya sudah merupakan solusi yang masuk akal. Namun. pihak-pihak yang menolak integrasi tetap menginginkan referendum untuk menentukan nasib mereka, antara memilih otonomi atau kemerdekaan. Menyadari sulitnya mencapai perdamaian jika konflik terus berlanjut, pemerintah Indonesia akhirya memilih untuk menyetujui pelaksanaan jajak pendapat. Referendum berlangsung pada 30 Agustus 1999 dan hasilnya menunjukkan bahwa mayoritas rakyat Timor-Timur, sebesar 78,5%, memilih kemerdekaan. Setelah referendum, meskipun terjadi kekerasan, Indonesia dengan bijaksana menyetujui pengiriman pasukan multinasional demi menjaga perdamaian. Sikap ini menunjukkan komitmen Indonesia untuk menghormati hak asasi manusia dan memenuhi tanggung jawab internasionalnya. Dengan menerima hasil referendum, pemerintah Habibie memberikan contoh bahwa Indonesia adalah negara yang demokratis, menghargai hak setiap bangsa untuk merdeka, serta berperan sebagai anggota masyarakat internasional yang bertanggung jawab.\n\nAlasan utama pemerintah Indonesia menyetujui pelaksanaan referendum di Timor-Timur pada tahun 1999 adalah …",
+    "options": {
+      "A": "Untuk mendapatkan pengakuan internasional terhadap integrasi Timor-Timur",
+      "B": "Karena pemerintah Indonesia ingin menghentikan subsidi ke Timor-Timur",
+      "C": "Agar masyarakat Timor-Timur dapat memilih otonomi atau kemerdekaan",
+      "D": "Karena Indonesia didesak oleh dunia internasional",
+      "E": "Untuk memutuskan apakah Indonesia tetap mempertahankan Timor-Timur"
+    },
+    "answer": "C",
+    "explanation": "Soal tersebut menanyakan alasan utama pemerintah Indonesia menyetujui pelaksanaan referendum Timor-Timur.\n\nBacaan menyatakan bahwa pihak yang menolak integrasi tetap menginginkan referendum untuk menentukan nasib mereka (otonomi atau kemerdekaan), dan karena menyadari sulitnya mencapai perdamaian jika konflik berlanjut, pemerintah akhirnya menyetujui jajak pendapat.\n\nJadi alasan utamanya adalah memberi masyarakat Timor-Timur kesempatan memilih otonomi atau kemerdekaan. Tekanan resolusi PBB (D) hanya latar belakang, bukan alasan langsung yang ditekankan, sedangkan pengakuan internasional, penghentian subsidi, dan keputusan mempertahankan wilayah tidak dinyatakan sebagai alasan.\n\nJawaban C tepat.",
+    "hint": "Pahami hubungan antarinformasi (sebab–akibat, tujuan, makna) atau lakukan perhitungan dari data bacaan.",
+    "source_file": "BaseSoalLBI2.xlsx",
+    "source_sheet": "Soal",
+    "source_row": 14
+  },
+  {
+    "question_id": "LBI-268",
+    "category": "Memahami Informasi",
+    "question_type": "pilihan_ganda",
+    "difficulty": "Sedang",
+    "question": "Perhatikan teks berikut!\n\nBoneka Labubu kini menjadi fenomena populer, khususnya di kalangan kolektor, berkat desainnya yang khas dan strategi pemasaran yang inovatif. Produk dari perusahaan Pop Mart yang didirikan oleh miliader muda Wang Ning tersebut memiliki kepala besar, mata bulat, ekspresi unik, dan cerita karakter yang kuat. Salah satu strategi utama yang digunakan adalah ”blind box” atau kotak kejutan yang menciptakan elemen ketidakpastian sehingga menarik minat konsumen. Strategi ini memperkuat daya tarik Labubu sehingga mendorong banyak orang untuk mengoleksinya. Kepopuleran boneka Labubu semakin meningkat setelah Lisa dari Blackpink mengungahnya di Instagram pada April 2024. Fenomena Labubu juga menarik perhatian besar di Thailand dan negara-negara Asia lainnya, termasuk Indonesia. Tren ini didorong oleh fear of missing out (FOMO). Dengan menciptakan eksklusivitas dan memanfaatkan pengaruh media sosial, produsen berhasil memengaruhi konsumen untuk membeli Labubu. Strategi pemasaran Pop Mart juga memanfaatkan konsep kelangkaan (scarcity marketing), dengan memproduksi Labubu dalam jumlah terbatas. Ini menciptakan rasa urgensi, membuat penggemar rela menunggu lama untuk membelinya. Kelangkaan ini juga meningkatkan nilai jual boneka tersebut di pasar sehingga harga Labubu menjadi naik seiring tingginya permintaan.\n\nIstilah ”blind box” pada bacaan memiliki makna ...",
+    "options": {
+      "A": "Cara perancangan metode produksi yang memanfaatkan konsep kelangkaan",
+      "B": "Cara penjualan dengan kemasan tanpa memberikan kepastian jenis barangnya",
+      "C": "Tingkat penyebaran popularitas ke banyak negara tanpa arah yang pasti",
+      "D": "Strategi pemasaran yang mengandalkan produksi dengan jumlah tidak tentu",
+      "E": "Metode penjualan barang kepada konsumen secara acak"
+    },
+    "answer": "B",
+    "explanation": "Soal tersebut menanyakan makna istilah blind box dalam bacaan.\n\nBacaan menjelaskan bahwa blind box atau kotak kejutan “menciptakan elemen ketidakpastian” sehingga menarik konsumen. Pembeli tidak mengetahui jenis boneka yang ada di dalam kotak saat membeli.\n\nJadi blind box adalah cara penjualan dengan kemasan tanpa kepastian jenis barang di dalamnya. Opsi E (penjualan secara acak) kurang tepat karena yang acak adalah isi kemasan, bukan metode menjual kepada konsumen.\n\nJawaban B tepat.",
+    "hint": "Pahami hubungan antarinformasi (sebab–akibat, tujuan, makna) atau lakukan perhitungan dari data bacaan.",
+    "source_file": "BaseSoalLBI2.xlsx",
+    "source_sheet": "Soal",
+    "source_row": 19
+  },
+  {
+    "question_id": "LBI-003",
+    "category": "Mengevaluasi dan Merefleksi Informasi",
+    "question_type": "pilihan_ganda",
+    "difficulty": "Sulit",
+    "question": "Perhatikan Teks Berikut!\n\nPemerintah memberi insentif pembelian mobil listrik pribadi dengan harapan emisi karbon transportasi menurun. Tujuan itu patut didukung, tetapi caranya kurang tepat. Insentif sebaiknya dialihkan ke elektrifikasi angkutan umum, seperti bus kota, karena manfaat per rupiah anggaran jauh lebih besar.\n\nSatu bus kota dapat mengangkut puluhan penumpang yang, tanpa bus, umumnya memakai puluhan kendaraan pribadi. Bus yang beroperasi belasan jam sehari juga menempuh jarak jauh lebih panjang per hari daripada mobil pribadi sehingga setiap bus yang beralih ke listrik menghilangkan emisi dalam jumlah yang jauh lebih besar.\n\nSebaliknya, subsidi mobil listrik pribadi dinikmati terutama oleh rumah tangga berpenghasilan tinggi yang mampu membeli mobil, sementara kelompok yang paling bergantung pada transportasi murah tidak tersentuh. Mobil pribadi yang lebih murah juga dapat mendorong lebih banyak orang beralih dari transportasi umum ke mobil sehingga kemacetan tidak berkurang.\n\nPendukung insentif mobil pribadi berargumen bahwa subsidi diperlukan untuk memicu pasar dan industri baterai dalam negeri. Argumen ini valid sebagian, tetapi tujuan itu dapat dicapai pula lewat pembelian bus listrik dalam jumlah besar oleh pemerintah daerah, yang sekaligus menciptakan pasar yang stabil bagi industri.\n\nTemuan berikut yang paling melemahkan argumen penulis tentang besarnya manfaat emisi bus listrik adalah ....",
+    "options": {
+      "A": "Halte bus dicat ulang tahun lalu.",
+      "B": "Penumpang bus umumnya berangkat pagi.",
+      "C": "Sopir bus menyukai pekerjaannya.",
+      "D": "Sebagian besar bus kota di kota itu beroperasi hanya beberapa jam per hari dan sering hampir kosong.",
+      "E": "Bus listrik berbunyi lebih senyap."
+    },
+    "answer": "D",
+    "explanation": "Jawaban: D\n\nJika bus jarang beroperasi dan kosong, premis 'banyak penumpang' dan 'jarak jauh' runtuh.\n\nAnalisis setiap opsi:\nA. (SALAH) Tidak relevan.\nB. (SALAH) Tidak menyerang premis.\nC. (SALAH) Tidak relevan.\nD. (BENAR) Sesuai: menyerang dua premis utama.\nE. (SALAH) Tidak menyangkut emisi yang dihindarkan.",
+    "hint": "Melemahkan berarti menyerang premis penumpang dan jarak tempuh.",
+    "source_file": "BaseSoalLBI.xlsx",
+    "source_sheet": "Soal",
+    "source_row": 4
+  },
+  {
+    "question_id": "LBI-264",
+    "category": "Mengevaluasi dan Merefleksi Informasi",
+    "question_type": "pilihan_ganda",
+    "difficulty": "Sulit",
+    "question": "Perhatikan teks berikut!\n\nPelaksanaan referendum Timor-Timur pada masa pemerintahan Presiden B.J. Habibie merupakan langkah berani dan bijaksana dalam menyelesaikan permasalahan yang kompleks dan berlarut-larut. Sejak integrasi Timor-Timur ke Indonesia pada tahun 1975, banyak pengorbanan telah diberikan, termasuk subsidi yang besar dari pemerintah pusat untuk pembangunan dan kesejahteraan daerah tersebut. Namun, integrasi ini tidak pernah mendapatkan pengakuan internasional dan terus menjadi sorotan di berbagai forum dunia. Indonesia harus menghadapi kenyataan bahwa posisi negara sering kali dipojokkan oleh resolusi-resolusi PBB yang mendesak penyelesaian masalah Timor-Timur. Opsi otonomi luas yang ditawarkan oleh Indonesia dalam perundingan tripartit sebenarnya sudah merupakan solusi yang masuk akal. Namun. pihak-pihak yang menolak integrasi tetap menginginkan referendum untuk menentukan nasib mereka, antara memilih otonomi atau kemerdekaan. Menyadari sulitnya mencapai perdamaian jika konflik terus berlanjut, pemerintah Indonesia akhirya memilih untuk menyetujui pelaksanaan jajak pendapat. Referendum berlangsung pada 30 Agustus 1999 dan hasilnya menunjukkan bahwa mayoritas rakyat Timor-Timur, sebesar 78,5%, memilih kemerdekaan. Setelah referendum, meskipun terjadi kekerasan, Indonesia dengan bijaksana menyetujui pengiriman pasukan multinasional demi menjaga perdamaian. Sikap ini menunjukkan komitmen Indonesia untuk menghormati hak asasi manusia dan memenuhi tanggung jawab internasionalnya. Dengan menerima hasil referendum, pemerintah Habibie memberikan contoh bahwa Indonesia adalah negara yang demokratis, menghargai hak setiap bangsa untuk merdeka, serta berperan sebagai anggota masyarakat internasional yang bertanggung jawab.\n\nBerdasarkan bacaan di atas yang dimaksud dengan ”resolusi-resolusi PBB” adalah …",
+    "options": {
+      "A": "Keputusan yang dibuat oleh pemerintah Indonesia untuk menjaga perdamaian",
+      "B": "Tuntutan internasional yang mendesak penyelesaian masalah Timor-Timur",
+      "C": "Seruan dari negara-negara anggota PBB agar Indonesia mengakui kedaulatan Timor-Timur",
+      "D": "Pernyataan dukungan negara-negara anggota PBB terhadap integrasi Timor-Timur ke Indonesia",
+      "E": "Seruan dari anggota Dewan Keamanan PBB untuk mengadakan referendum di"
+    },
+    "answer": "B",
+    "explanation": "Soal tersebut menanyakan maksud “resolusi-resolusi PBB” dalam bacaan.\n\nKalimatnya: “Indonesia harus menghadapi kenyataan bahwa posisi negara sering kali dipojokkan oleh resolusi-resolusi PBB yang mendesak penyelesaian masalah Timor-Timur.”\n\nFrasa yang mendesak penyelesaian masalah menunjukkan bahwa resolusi itu adalah tuntutan internasional agar masalah Timor-Timur diselesaikan. Opsi lain menambahkan isi yang tidak ada pada bacaan, misalnya pengakuan kedaulatan, dukungan terhadap integrasi, atau seruan referendum oleh Dewan Keamanan.\n\nJawaban B tepat.",
+    "hint": "Nilai isi bacaan, hubungkan dengan pengetahuan lain, lalu pilih pernyataan yang paling logis dan didukung bacaan.",
+    "source_file": "BaseSoalLBI2.xlsx",
+    "source_sheet": "Soal",
+    "source_row": 15
+  },
+  {
+    "question_id": "LBI-266",
+    "category": "Mengevaluasi dan Merefleksi Informasi",
+    "question_type": "pilihan_ganda",
+    "difficulty": "Sulit",
+    "question": "Perhatikan teks berikut!\n\nPelaksanaan referendum Timor-Timur pada masa pemerintahan Presiden B.J. Habibie merupakan langkah berani dan bijaksana dalam menyelesaikan permasalahan yang kompleks dan berlarut-larut. Sejak integrasi Timor-Timur ke Indonesia pada tahun 1975, banyak pengorbanan telah diberikan, termasuk subsidi yang besar dari pemerintah pusat untuk pembangunan dan kesejahteraan daerah tersebut. Namun, integrasi ini tidak pernah mendapatkan pengakuan internasional dan terus menjadi sorotan di berbagai forum dunia. Indonesia harus menghadapi kenyataan bahwa posisi negara sering kali dipojokkan oleh resolusi-resolusi PBB yang mendesak penyelesaian masalah Timor-Timur. Opsi otonomi luas yang ditawarkan oleh Indonesia dalam perundingan tripartit sebenarnya sudah merupakan solusi yang masuk akal. Namun. pihak-pihak yang menolak integrasi tetap menginginkan referendum untuk menentukan nasib mereka, antara memilih otonomi atau kemerdekaan. Menyadari sulitnya mencapai perdamaian jika konflik terus berlanjut, pemerintah Indonesia akhirya memilih untuk menyetujui pelaksanaan jajak pendapat. Referendum berlangsung pada 30 Agustus 1999 dan hasilnya menunjukkan bahwa mayoritas rakyat Timor-Timur, sebesar 78,5%, memilih kemerdekaan. Setelah referendum, meskipun terjadi kekerasan, Indonesia dengan bijaksana menyetujui pengiriman pasukan multinasional demi menjaga perdamaian. Sikap ini menunjukkan komitmen Indonesia untuk menghormati hak asasi manusia dan memenuhi tanggung jawab internasionalnya. Dengan menerima hasil referendum, pemerintah Habibie memberikan contoh bahwa Indonesia adalah negara yang demokratis, menghargai hak setiap bangsa untuk merdeka, serta berperan sebagai anggota masyarakat internasional yang bertanggung jawab.\n\nDampak positif dari keputusan Presiden B.J. Habibie dalam menerima hasil referendum Timor-Timur adalah …",
+    "options": {
+      "A": "Meningkatkan stabilitas ekonomi di wilayah Indonesia lainnya",
+      "B": "Membangun citra Indonesia sebagai negara yang menghargai demokrasi",
+      "C": "Menurunkan konflik dengan negara tetangga yang mendukung Timor-Timur",
+      "D": "Mengurangi kebutuhan anggaran pertahanan di Indonesia secara drastis",
+      "E": "Mengurangi tekanan dunia internasional terhadap Indonesia"
+    },
+    "answer": "B",
+    "explanation": "Soal tersebut menanyakan dampak positif keputusan Presiden Habibie menerima hasil referendum.\n\nBacaan menyatakan bahwa dengan menerima hasil referendum, “pemerintah Habibie memberikan contoh bahwa Indonesia adalah negara yang demokratis, menghargai hak setiap bangsa untuk merdeka” dan bertanggung jawab sebagai anggota masyarakat internasional.\n\nJadi dampak positifnya adalah terbentuknya citra Indonesia sebagai negara yang menghargai demokrasi. Dampak ekonomi, penurunan anggaran pertahanan, dan hilangnya tekanan internasional tidak dinyatakan dalam bacaan.\n\nJawaban B tepat.",
+    "hint": "Nilai isi bacaan, hubungkan dengan pengetahuan lain, lalu pilih pernyataan yang paling logis dan didukung bacaan.",
+    "source_file": "BaseSoalLBI2.xlsx",
+    "source_sheet": "Soal",
+    "source_row": 17
+  }
+]
