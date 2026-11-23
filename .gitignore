@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Notebook sementara
+.ipynb_checkpoints/
+
+# Rahasia
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+
+# Sistem operasi
+.DS_Store
+Thumbs.db
+
+# Cache model dan unduhan lokal
+.cache/
+models/
