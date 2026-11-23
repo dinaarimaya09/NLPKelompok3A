@@ -1,0 +1,8 @@
+streamlit
+pandas
+openpyxl
+pymupdf
+transformers
+torch
+sentencepiece
+scikit-learn
